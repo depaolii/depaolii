@@ -6,6 +6,7 @@ Vibe coder. Construo com **Claude Code** sistemas que trabalham sozinhos: editam
 
 | No ar | |
 |---|---|
+| 📊 [Sobra](https://sobra-app-demo.netlify.app) | App de finanças pessoais (demonstração) |
 | 🛒 [Loja KRAVEN](https://kraven-loja.netlify.app) | E-commerce completo (Next.js) |
 | 🎬 [Site da Algup](https://algup.netlify.app) | Site de agência para vender pelo WhatsApp |
 | 🎞️ [Portfólio de edição](https://marcello-portfolio.pages.dev) | One-page com meus vídeos |
